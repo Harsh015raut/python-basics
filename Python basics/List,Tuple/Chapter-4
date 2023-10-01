@@ -1,0 +1,19 @@
+#List
+a = [1,324,56,3,2,46]
+print(a)
+
+#Access using index a[0],a[1],a[2]
+print(a[0])
+#Change the Value of list
+a[0] = 22
+print(a)
+#Python list can contain different types of object
+b = ["harsh",True,1,0.565]
+print(b)
+
+#List Slicing
+f = ["Harsh","Monika","Satyajit","Swagat"]
+print(f[0:4])
+print(f[-4:])
+
+
